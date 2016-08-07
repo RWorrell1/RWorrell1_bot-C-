@@ -1,0 +1,10 @@
+/Users/ryanworrell/Projects/RWorrell1_bot/RWorrell1_bot/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/ryanworrell/Projects/RWorrell1_bot/RWorrell1_bot/bin/Debug/RWorrell1_bot.exe.mdb
+/Users/ryanworrell/Projects/RWorrell1_bot/RWorrell1_bot/bin/Debug/RWorrell1_bot.exe
+/Users/ryanworrell/Projects/RWorrell1_bot/RWorrell1_bot/obj/x86/Debug/RWorrell1_bot.exe
+/Users/ryanworrell/Projects/RWorrell1_bot/RWorrell1_bot/obj/x86/Debug/RWorrell1_bot.exe.mdb
+/Volumes/CODE/RWorrell1_bot/RWorrell1_bot/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Volumes/CODE/RWorrell1_bot/RWorrell1_bot/bin/Debug/RWorrell1_bot.exe.mdb
+/Volumes/CODE/RWorrell1_bot/RWorrell1_bot/bin/Debug/RWorrell1_bot.exe
+/Volumes/CODE/RWorrell1_bot/RWorrell1_bot/obj/x86/Debug/RWorrell1_bot.exe
+/Volumes/CODE/RWorrell1_bot/RWorrell1_bot/obj/x86/Debug/RWorrell1_bot.exe.mdb

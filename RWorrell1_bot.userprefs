@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="RWorrell1_bot/RWorrell1_bot.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RWorrell1_bot/IrcClient.cs">
+    <Files>
+      <File FileName="RWorrell1_bot/Program.cs" Line="27" Column="23" />
+      <File FileName="RWorrell1_bot/IrcClient.cs" Line="33" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
